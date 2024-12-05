@@ -1,0 +1,2 @@
+C:\Users\chase\Unity Projects\CMPM 170 Poppup\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\chase\Unity Projects\CMPM 170 Poppup\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
